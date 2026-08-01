@@ -1,0 +1,7 @@
+# System packages for Streamlit Community Cloud (WeasyPrint)
+libpango-1.0-0
+libpangocairo-1.0-0
+libgdk-pixbuf-2.0-0
+libffi-dev
+shared-mime-info
+fonts-dejavu-core

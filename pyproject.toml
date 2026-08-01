@@ -1,0 +1,61 @@
+[project]
+name = "jupyter2pdf"
+version = "1.0.0"
+description = "Production-ready AI-powered Jupyter Notebook to PDF converter with multi-LLM support."
+readme = "README.md"
+requires-python = ">=3.11,<3.14"
+license = { text = "MIT" }
+authors = [
+    { name = "Junaid Malik", email = "junaid@example.com" },
+]
+keywords = [
+    "jupyter",
+    "notebook",
+    "pdf",
+    "streamlit",
+    "langchain",
+    "weasyprint",
+]
+dependencies = [
+    "streamlit>=1.32.0,<2",
+    "python-dotenv>=1.0.0",
+    "nbformat>=5.10.0",
+    "nbclient>=0.10.0",
+    "jupyter_client>=8.6.0",
+    "ipykernel>=6.29.0",
+    "markdown>=3.5",
+    "Pygments>=2.17.0",
+    "weasyprint>=62.0",
+    "xhtml2pdf>=0.2.15",
+    "reportlab>=4.1.0",
+    "langchain>=0.3.0",
+    "langchain-core>=0.3.0",
+    "langgraph>=0.2.0",
+    "langchain-openai>=0.2.0",
+    "langchain-groq>=0.2.0",
+    "langchain-google-genai>=2.0.0",
+    "langchain-anthropic>=0.2.0",
+    "openai>=1.40.0",
+    "groq>=0.9.0",
+    "google-genai>=1.0.0",
+    "anthropic>=0.34.0",
+    "Pillow>=10.0.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/your-username/jupyter2pdf"
+Repository = "https://github.com/your-username/jupyter2pdf"
+Issues = "https://github.com/your-username/jupyter2pdf/issues"
+
+[project.scripts]
+jupyter2pdf = "main:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["config", "services", "ui", "utils", "models"]
+
+[dependency-groups]
+dev = []

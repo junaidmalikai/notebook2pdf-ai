@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420">
+  <rect width="640" height="420" rx="12" fill="#0e1a28"/>
+  <rect x="24" y="24" width="592" height="372" rx="10" fill="none" stroke="#c0a060" stroke-width="1.5" opacity="0.4"/>
+  <text x="48" y="70" fill="#c0a060" font-family="Segoe UI, sans-serif" font-size="18">AI Provider Sidebar</text>
+  <rect x="48" y="100" width="544" height="40" rx="8" fill="#080e17" stroke="#c0a060" opacity="0.5"/>
+  <rect x="48" y="160" width="544" height="40" rx="8" fill="#080e17" stroke="#c0a060" opacity="0.5"/>
+  <rect x="48" y="230" width="250" height="44" rx="8" fill="#c8a84a"/>
+  <text x="48" y="320" fill="#7ee8a8" font-family="Segoe UI, sans-serif" font-size="16">=â Connected · Account Ready</text>
+  <text x="48" y="360" fill="#ede5cf" opacity="0.5" font-family="Segoe UI, sans-serif" font-size="13">Screenshot placeholder</text>
+</svg>

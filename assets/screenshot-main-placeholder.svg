@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420">
+  <rect width="640" height="420" rx="12" fill="#080e17"/>
+  <rect x="24" y="24" width="592" height="372" rx="10" fill="none" stroke="#c0a060" stroke-width="1.5" opacity="0.4"/>
+  <text x="48" y="70" fill="#ede5cf" font-family="Georgia, serif" font-size="28">Notebook <tspan fill="#c8a84a">to PDF</tspan></text>
+  <rect x="48" y="100" width="544" height="90" rx="10" fill="#0e1a28" stroke="#c0a060" opacity="0.45"/>
+  <rect x="48" y="210" width="250" height="48" rx="8" fill="#c8a84a"/>
+  <rect x="320" y="210" width="250" height="48" rx="8" fill="none" stroke="#c8a84a"/>
+  <rect x="48" y="280" width="544" height="90" rx="10" fill="rgba(58,173,110,0.12)" stroke="#3aad6e"/>
+  <text x="70" y="330" fill="#7ee8a8" font-family="Segoe UI, sans-serif" font-size="16">Exports Ready · Download Center</text>
+</svg>
