@@ -368,8 +368,8 @@ MIT — see [LICENSE](LICENSE).
 
 **Junaid Malik** · [junaidmalikai](https://github.com/junaidmalikai)
 
-- Repository: [github.com/junaidmalikai/jupyter2pdf](https://github.com/junaidmalikai/jupyter2pdf)  
-- Issues: [github.com/junaidmalikai/jupyter2pdf/issues](https://github.com/junaidmalikai/jupyter2pdf/issues)
+- Repository: [github.com/junaidmalikai/jupyter2pdf](https://github.com/junaidmalikai/notebook2pdf-ai)  
+- Issues: [github.com/junaidmalikai/jupyter2pdf/issues](https://github.com/junaidmalikai/notebook2pdf-ai/issues)
 
 ---
 
@@ -379,6 +379,6 @@ MIT — see [LICENSE](LICENSE).
 
 AI-Native LangGraph Orchestration with Deterministic Tools
 
-[GitHub](https://github.com/junaidmalikai/jupyter2pdf) · MIT License · © 2026
+[GitHub](https://github.com/junaidmalikai/notebook2pdf-ai) · MIT License · © 2026
 
 </div>
