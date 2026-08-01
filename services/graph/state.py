@@ -138,7 +138,7 @@ class PdfArtifact(TypedDict):
 class ConversionState(TypedDict, total=False):
     """Shared persistent state for the supervisor multi-agent graph."""
 
-    # Parallel Send may touch notebooks (e.g. accidental full snapshots) — merge by name
+    # Parallel Send may touch notebooks (e.g. accidental full snapshots) - merge by name
     notebooks: Annotated[List[NotebookInput], _merge_notebooks]
     pdf_settings: Annotated[Dict[str, Any], _last_value]
     provider_id: Annotated[str, _last_value]
