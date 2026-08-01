@@ -368,8 +368,8 @@ MIT — see [LICENSE](LICENSE).
 
 **Junaid Malik** · [junaidmalikai](https://github.com/junaidmalikai)
 
-- Repository: [github.com/junaidmalikai/jupyter2pdf](https://github.com/junaidmalikai/notebook2pdf-ai)  
-- Issues: [github.com/junaidmalikai/jupyter2pdf/issues](https://github.com/junaidmalikai/notebook2pdf-ai/issues)
+- Repository: [github.com/junaidmalikai/notebook2pdf](https://github.com/junaidmalikai/notebook2pdf-ai)  
+- Issues: [github.com/junaidmalikai/notebook2pdf/issues](https://github.com/junaidmalikai/notebook2pdf-ai/issues)
 
 ---
 
